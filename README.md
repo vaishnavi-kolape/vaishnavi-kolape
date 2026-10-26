@@ -1,5 +1,8 @@
 # Hello, I'm Vaishnavi
-<a href="https://www.linkedin.com/in/vaishnavi-kolape/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavi-kolape/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vaishnavi-kolape.github.io/"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?&style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 
 ### Master’s Student @ University of Birmingham | Cybersecurity
 
